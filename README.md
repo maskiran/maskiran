@@ -28,8 +28,7 @@ I build large-scale platforms across **AWS, Azure, and GCP**, lead high-performi
 - ReactJS  
 
 ### DevOps
-- Kubernetes  
-- Docker  
+- Kubernetes / Docker
 - Terraform  
 - CI/CD platforms  
 
@@ -38,7 +37,6 @@ I build large-scale platforms across **AWS, Azure, and GCP**, lead high-performi
 - Cloud Security  
 - Firewalls, WAF, IDS/IPS  
 - OAuth, OpenID Connect, SAML  
-- Zero Trust concepts  
 
 ---
 
@@ -75,6 +73,14 @@ Summarizes PRs, generates test cases, standardizes Jira updates, and streamlines
 - Cloud-native LLM inference  
 - DevSecOps automation with AI  
 - MCP agent ecosystems  
+
+---
+
+## 🎓 Education
+
+- **MBA**, University of Illinois Urbana–Champaign  
+- **M.S. in Software Engineering**, San Jose State University  
+- **B.Tech in Computer Science & Engineering**, NIT Warangal (REC Warangal)
 
 ---
 
