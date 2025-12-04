@@ -86,5 +86,7 @@ Summarizes PRs, generates test cases, standardizes Jira updates, and streamlines
 
 ## 🔗 Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/maskiran  
-- **Medium:** https://maskiran.medium.com  
+- **[LinkedIn](https://www.linkedin.com/in/maskiran)**
+- **[Medium](https://maskiran.medium.com)**
+
+## [Resume](Resume.md)
