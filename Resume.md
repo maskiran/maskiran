@@ -80,12 +80,12 @@ Bachelor of Technology, Computer Science & Engineering
 
 ### TECHNICAL SKILLS
 
-*Cloud*: AWS, Azure, GCP
-*Programming*: Python, ReactJS, Full Stack Development
-*Databases*: MongoDB, MySQL, Elasticsearch
-*DevOps & Infrastructure*: Kubernetes, Docker, Terraform
-*AI & ML*: Pytorch, Huggingface Transformers, Langchain, MCP
-*Other*: Network Security (Firewall, IPS - Snort, WAF - ModSec), User Identity Management (OAuth, OpenID, SAML), Cloud Security
+- *Cloud*: AWS, Azure, GCP
+- *Programming*: Python, ReactJS, Full Stack Development
+- *Databases*: MongoDB, MySQL, Elasticsearch
+- *DevOps & Infrastructure*: Kubernetes, Docker, Terraform
+- *AI & ML*: Pytorch, Huggingface Transformers, Langchain, MCP
+- *Other*: Network Security (Firewall, IPS - Snort, WAF - ModSec), User Identity Management (OAuth, OpenID, SAML), Cloud Security
 
 ### HONORS & AWARDS
 
