@@ -22,7 +22,8 @@ Forward-thinking professional with 20+ years of achievements leading high-perfor
 Technical Leadership | Strategic Planning | Engineering Management | Cross-Functional Collaboration
 Customer Relations | Cloud Computing | Cloud Services | DevOps | CI/CD
 Stakeholder Management | Product Development | Team Building | Enterprise Software | Code Quality
-Innovation | Scalability | Infrastructure | SDLC | AI Agents | GenAI | SaaS
+Innovation | Scalability | Infrastructure | SDLC | AI Agents | GenAI | RAG | LLM Orchestration
+SaaS | System Design | System Architecture | Distributed SYstems
 
 ## PROFESSIONAL EXPERIENCE
 
