@@ -18,9 +18,13 @@ Engineering leader with 20+ years of experience building and scaling cloud-nativ
 ### Skills & Expertise
 
 **Leadership & Strategy**: Engineering Leadership, Org Scaling, Strategic Planning, Cross-Functional Leadership
+
 **Security**: Cloud Security, Network Security, Identity & Access Management
+
 **Cloud & Infrastructure**: AWS, Azure, GCP, Kubernetes, Terraform, Distributed Systems
+
 **AI & Automation**: GenAI, RAG, AI Agents, ML Systems
+
 **Architecture & Development**: System Design, SaaS Platforms, Microservices, API Design
 
 ### Professional Experience
@@ -71,21 +75,29 @@ Engineering leader with 20+ years of experience building and scaling cloud-nativ
 ### Education & Training
 
 **MBA** – University of Illinois Urbana-Champaign
+
 **MS, Software Engineering** – San Jose State University
+
 **B.Tech, Computer Science & Engineering** – NIT Warangal
 
 ### Certifications And Continuing Education
 
 AWS Certified Solutions Architect – Associate
+
 MIT Professional Education — No Code AI & Machine Learning
 
 ### Technical Skills
 
 **Cloud**: AWS, Azure, GCP
+
 **Programming**: Python, React
+
 **Databases**: MongoDB, MySQL, Elasticsearch
+
 **DevOps & Infrastructure**: Kubernetes, Docker, Terraform
+
 **AI & ML**: Pytorch, Huggingface Transformers, Langchain, MCP
+
 **Other**: Network Security (Firewall, IPS - Snort, WAF - ModSec), User Identity Management (OAuth, OpenID, SAML), Cloud Security
 
 ### Honors & Awards
@@ -95,4 +107,5 @@ Recipient of multiple top engineering awards at Cisco, Valtix, Nutanix, and Juni
 ### Interests
 
 **Writing & Blogging**: Authoring technical and leadership articles on Medium, focused on leadership, design, psychology and other topics
+
 **Photography**: Passionate about visual storytelling
