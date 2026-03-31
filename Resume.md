@@ -1,97 +1,97 @@
-## SREENIVASA KIRAN MADABHUSHI, MS, MBA
+# SREENIVASA KIRAN MADABHUSHI, MS, MBA
 
 408-242-0215 | maskiran@gmail.com | San Jose, CA
+[LinkedIn](https://www.linkedin.com/in/maskiran) | [GitHub](https://github.com/maskiran) | [Medium](https://medium.com/%40maskiran)
 
-[LinkedIn](https://www.linkedin.com/in/maskiran) | [GitHub](https://github.com/maskiran) |[Medium](https://medium.com/%40maskiran)
+### Software Engineering Director | AI/ML & Cloud Security Platforms
 
-## SOFTWARE ENGINEERING DIRECTOR
+Engineering leader with 20+ years of experience building and scaling cloud-native security platforms from startup to acquisition (Valtix → Cisco). Expertise in AI-driven automation, cloud security, and multi-cloud architecture. Proven track record of driving platform innovation, accelerating product delivery, and leading high-performing teams in Fortune 100 environments.
 
-*AI & ML / Cloud Services / Technical Leadership / Enterprise Software / System Architecting*
+### Selected Impact
 
-Forward-thinking professional with 20+ years of achievements leading high-performing teams and delivering enterprise-scale technology solutions. Proven track record of driving modernization, optimization, and engineering excellence at high-profile companies like Cisco (Fortune 100). Expert in shaping technical strategy, building scalable architectures, and guiding organizations through AI-driven innovation and automation. Establishes strong engineering cultures and maintains superior team performance across large-scale software projects. Champions cutting-edge solutions to maximize customer satisfaction and consistently exceed expectations.
+* Delivered patented multi-cloud security architecture reducing deployment time by 99%+
+* Led development of a multi-cloud security platform with 4 patent filings
+* Built AI-driven incident response systems improving resolution speed by 75%
+* Built and scaled high-performing engineering teams across startup and enterprise environments, contributing to successful acquisition (Valtix → Cisco)
 
-## CAREER HIGHLIGHTS
+### Skills & Expertise
 
-* **Designed a complete Multi-Cloud Services architecture** with centralized network security (Patent Pending) reducing customer firewall deployment times by 99%+.
-* **Headed the development of a Multi-Cloud Network Security Platform** that involved 4 pending patents; sought as an internal consultant for similar development efforts companywide.
-* **Led and trained pacesetting engineering teams** through the entire product development lifecycle, with multiple individuals going on to receive prestigious accolades.
-* **Built out a microservices-based DevOps infrastructure** to achieve scalability & automation targets for cloud operations while also cutting related engineering expenditures.
+**Leadership & Strategy**: Engineering Leadership, Org Scaling, Strategic Planning, Cross-Functional Leadership
+**Security**: Cloud Security, Network Security, Identity & Access Management
+**Cloud & Infrastructure**: AWS, Azure, GCP, Kubernetes, Terraform, Distributed Systems
+**AI & Automation**: GenAI, RAG, AI Agents, ML Systems
+**Architecture & Development**: System Design, SaaS Platforms, Microservices, API Design
 
-## SKILLS & EXPERTISE
+### Professional Experience
 
-Technical Leadership | Strategic Planning | Engineering Management | Cross-Functional Collaboration
-Customer Relations | Cloud Computing | Cloud Services | DevOps | CI/CD
-Stakeholder Management | Product Development | Team Building | Enterprise Software | Code Quality
-Innovation | Scalability | Infrastructure | SDLC | AI Agents | GenAI | RAG | LLM Orchestration
-SaaS | System Design | System Architecture | Distributed SYstems
+#### Cisco – Director of Software Engineering 2023 – Present
 
-## PROFESSIONAL EXPERIENCE
+* **Team Leadership**: Led a team of 12+ engineers across cloud security platform development, spanning architecture, AI systems, and SaaS delivery
+* **M&A Integration**: Led post-acquisition integration of Valtix into Cisco Security Cloud, driving architecture alignment and platform scalability
+* **AI Innovation**: Built AI-driven incident response agent, reducing remediation time by 75% through automated triage and ownership mapping
+* Modernized DevOps workflows using AI-powered tools for PR summarization and test generation, improving developer productivity and consistency
+* Influenced architecture standards across Cisco’s multi-cloud security portfolio as a key internal advisor
+* Delivered FedRAMP and GovCloud-compliant deployments ahead of schedule
 
-### Cisco – Director of Software Engineering 2023 – Present
-### Valtix (Acquired by Cisco) 2019 – 2023
+#### Valtix – Founding Engineer (Acquired by Cisco) 2019 – 2023
 
-* Accelerated fix turnaround times by 75% after building out an AI-driven agent to triage cloud security incidents, identify resource ownership, and deliver actionable remediation summaries.
-* Increased release quality and test coverage while also eliminating recurring productivity gaps after implementing a unique AI agent to summarize PR changes, auto-generate test cases, and standardize Jira updates without compromising overall project objectives.
-* Architected Multi-Cloud Services VPC/VNET with centralized network security (Patent Pending) reducing customer firewall deployment times by 99%+ within budget.
-* Spearheaded development of a Multi-Cloud Network Security Platform that involved 4 pending patents; sought as an internal consultant for similar platform development efforts companywide.
-* Improved methods for managing production SaaS environments across multiple cloud regions, optimizing service reliability and increasing uptime on average.
-* Selected to oversee Terraform Provider development for Valtix products, streamlining security resource automation/deployment and enabling operations savings.
-* Forged productive and professional customer relationships to distill their needs, provide impactful product enhancements, and exceed SLAs against rapidly changing technical objectives.
-* Sought out by clients as a valued architectural resource with in-depth knowledge of emerging design practices, building out tailored security solutions to eliminate risks.
-* Directed and trained pacesetting engineering teams through the entire product development lifecycle, with multiple individuals going on to receive prestigious accolades.
-* Cited for essential contributions to FedRAMP and GovCloud deployments, ensuring compliance and superior security while completing the initiatives consistently ahead of schedule.
-* Exceeded expectations as a Founding Engineer at Valtix; selected for a Director of Software Engineering role after the company’s acquisition by Cisco.
+* **Platform Architecture**: Architected patented multi-cloud network security platform, reducing deployment time by 99%+
+* Led development of core platform resulting in 4 patent filings in cloud-native security
+* Built Terraform provider enabling automated infrastructure provisioning and reduced operational overhead
+* Designed and operated global SaaS environments across multiple cloud regions with high availability and reliability
+* Partnered with enterprise customers to translate complex requirements into scalable security solutions
 
-### Nutanix – Staff Software Engineer 2015 – 2019
+#### Nutanix – Staff Software Engineer 2015 – 2019
 
-* Established a microservices-based DevOps infrastructure to achieve scalability & automation targets for cloud operations, cutting related engineering expenditures.
-* Architected/delivered a high-performance REST API Gateway to improve integration and extensibility, with the solution used as a template for all similar projects.
-* Accelerated troubleshooting, drove system optimization, and elevated decision-making responsiveness after developing advanced log analysis capabilities.
-* Headed a time-sensitive hybrid cloud integration between AWS and Nutanix platforms, maintaining business continuity and receiving the best possible reviews for the effort.
+* Built scalable microservices-based DevOps platform, improving automation and reducing operational costs
+* Designed high-performance API gateway adopted as architectural standard across teams
+* Led hybrid cloud integration between AWS and Nutanix with zero business disruption
+* Developed observability and log analysis systems improving system reliability and troubleshooting speed
+* Reduced technical debt and streamlined deployment workflows
 
-### Cisco – Technical Lead Engineer 2 2013 – 2015
-### Insieme Networks (Acquired by Cisco) 2012 – 2013
+#### Cisco – Technical Lead Engineer 2 2013 – 2015
 
-* Reduced CAPEX/OPEX and accelerated deployment validation & integration within a short timeframe after creating a specialized simulation of Virtual ESX for Cisco ACI Fabric.
-* Engineered a file system overlay to enhance system flexibility, performance, and ease of configuration management, positively impacting end-users.
-* Developed state-of-the-art analytics tools to bring down issue resolution times on average and drive a significant upturn in customer satisfaction scores
-* Boosted QA coverage and efficiency via test plan generation/test case management automation; authored a relevant handbook to share automation best practices & lessons learned.
-* Created a cross-functional marketing requirements application, streamlining product planning and supporting a notable increase in return on advertising spend.
+* Designed file system overlay improving system flexibility and performance
+* Automated test frameworks and QA processes, significantly increasing coverage and efficiency
+* Authored internal automation best practices adopted across teams
+
+#### Insieme Networks (Acquired by Cisco) 2012 – 2013
+
+* Built virtual ESX simulation for Cisco ACI Fabric, reducing infrastructure costs and accelerating validation
+* Developed internal tools improving product planning and marketing effectiveness
+* Created analytics systems that reduced issue resolution time and improved customer satisfaction
 
 ### Additional Experience
 
-### Juniper Networks – Senior Staff Engineer 2004 – 2012
-### Netscreen Technologies (Acquired by Juniper Networks) 2002 – 2004
+#### Juniper Networks – Senior Staff Engineer 2004 – 2012
 
-## EDUCATION & TRAINING
+#### Netscreen Technologies (Acquired by Juniper Networks) 2002 – 2004
 
-### University of Illinois Urbana-Champaign
-Master of Business Administration
+### Education & Training
 
-### San Jose State University
-Master of Science, Software Engineering
+**MBA** – University of Illinois Urbana-Champaign
+**MS, Software Engineering** – San Jose State University
+**B.Tech, Computer Science & Engineering** – NIT Warangal
 
-### NIT Warangal (REC Warangal)
-Bachelor of Technology, Computer Science & Engineering
+### Certifications And Continuing Education
 
-### Additional Education
+AWS Certified Solutions Architect – Associate
+MIT Professional Education — No Code AI & Machine Learning
 
-#### No Code AI and Machine Learning, MIT Professional Education
-#### AWS Certified Solutions Architect - Associate
+### Technical Skills
 
-### TECHNICAL SKILLS
+**Cloud**: AWS, Azure, GCP
+**Programming**: Python, React
+**Databases**: MongoDB, MySQL, Elasticsearch
+**DevOps & Infrastructure**: Kubernetes, Docker, Terraform
+**AI & ML**: Pytorch, Huggingface Transformers, Langchain, MCP
+**Other**: Network Security (Firewall, IPS - Snort, WAF - ModSec), User Identity Management (OAuth, OpenID, SAML), Cloud Security
 
-- *Cloud*: AWS, Azure, GCP
-- *Programming*: Python, ReactJS, Full Stack Development
-- *Databases*: MongoDB, MySQL, Elasticsearch
-- *DevOps & Infrastructure*: Kubernetes, Docker, Terraform
-- *AI & ML*: Pytorch, Huggingface Transformers, Langchain, MCP
-- *Other*: Network Security (Firewall, IPS - Snort, WAF - ModSec), User Identity Management (OAuth, OpenID, SAML), Cloud Security
+### Honors & Awards
 
-### HONORS & AWARDS
+Recipient of multiple top engineering awards at Cisco, Valtix, Nutanix, and Juniper Networks for technical leadership and innovation
 
-Multiple Recognitions at Cisco / Valtix Valiant / Nutanix Superhero / Juniper Networks Excellence / Netscreen Excellence
+### Interests
 
-### INTERESTS
-
-Photography
+**Writing & Blogging**: Authoring technical and leadership articles on Medium, focused on leadership, design, psychology and other topics
+**Photography**: Passionate about visual storytelling
