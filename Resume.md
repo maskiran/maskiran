@@ -1,6 +1,7 @@
 # SREENIVASA KIRAN MADABHUSHI, MS, MBA
 
 408-242-0215 | maskiran@gmail.com | San Jose, CA
+
 [LinkedIn](https://www.linkedin.com/in/maskiran) | [GitHub](https://github.com/maskiran) | [Medium](https://medium.com/%40maskiran)
 
 ### Software Engineering Director | AI/ML & Cloud Security Platforms
