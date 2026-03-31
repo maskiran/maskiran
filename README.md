@@ -1,92 +1,68 @@
-# 👋 Kiran Madabhushi
-### Director of Software Engineering · Cloud Security Architect · AI Systems Builder
+# Kiran Madabhushi
 
-Hi — I’m **Kiran**, an engineering leader specializing in **cloud security**, **distributed systems**, and **AI-driven automation**.  
-I build large-scale platforms across **AWS, Azure, and GCP**, lead high-performing teams, and design AI systems that improve reliability, security, and engineering productivity.
+**I build cloud security platforms and AI systems that scale in production, recover fast, and keep engineering teams moving.**
 
----
-
-## 📌 Core Technical Strengths
-
-### Cloud
-- AWS  
-- Azure  
-- Google Cloud Platform  
-
-### AI / Machine Learning
-- PyTorch  
-- HuggingFace Transformers  
-- LangChain  
-- MCP (Model Context Protocol)  
-
-### Backend
-- Python (FastAPI, Flask)  
-- API design & architecture  
-- Distributed services  
-
-### Frontend
-- ReactJS  
-
-### DevOps
-- Kubernetes / Docker
-- Terraform  
-- CI/CD platforms  
-
-### Security & Identity
-- Network Security  
-- Cloud Security  
-- Firewalls, WAF, IDS/IPS  
-- OAuth, OpenID Connect, SAML  
+Director of Engineering with 20+ years across startups and enterprise — including helping build Valtix from early days through acquisition into Cisco.
 
 ---
 
-## 🤖 Selected AI Work
+## What I’m Known For
 
-**AI Security Incident Agent**  
-Automates cloud incident triage, identifies resource ownership, and generates remediation recommendations — improving fix cycle time by **75%**.
-
-**AI DevOps Automation Agent**  
-Summarizes PRs, generates test cases, standardizes Jira updates, and streamlines release readiness.
-
----
-
-## ☁️ Cloud & Security Platform Engineering
-
-- Architected **Multi-Cloud Services VPC/VNET** framework with centralized network security (Patent Pending).  
-- Built a **multi-cloud network security platform** (L4 Firewall, WAF, IDS/IPS, DNS filtering) with **4 patent filings**.  
-- Managed and scaled **SaaS deployments across 8+ global regions**.  
-- Led development of **Terraform Provider** for Cisco Multicloud Defense.  
+- Turning complex cloud security problems into **simple, scalable platforms**
+- Building teams that deliver **real systems, not slideware**
+- Leading from the front — **building and shipping, not just directing**
+- Using AI to **remove operational drag**, not just add features
+- Bridging **architecture, execution, and business impact**
 
 ---
 
-## 🏆 Recognition
+## Selected Wins
 
-- 4+ patents in cloud security and distributed networking  
-- Founding engineer at **Valtix → acquired by Cisco**  
-- Awards: Valtix Valiant Award · Nutanix Superhero Award · Juniper Excellence Star  
-
----
-
-## 📚 Currently Exploring
-
-- Multi-agent AI design  
-- Cloud-native LLM inference  
-- DevSecOps automation with AI  
-- MCP agent ecosystems  
+- Took a multi-cloud security platform from early architecture to **production at scale (Valtix → Cisco)**
+- Reduced deployment friction from hours to seconds (**~99% improvement**) by rethinking system design
+- Built AI-driven incident workflows that significantly improved **signal, ownership, and response time**
+- Contributed to **patented approaches in cloud network security**
+- Delivered platforms used in **high-compliance environments (GovCloud / FedRAMP)**
 
 ---
 
-## 🎓 Education
+## What I Work On Now
 
-- **MBA**, University of Illinois Urbana–Champaign  
-- **M.S. in Software Engineering**, San Jose State University  
-- **B.Tech in Computer Science & Engineering**, NIT Warangal (REC Warangal)
+I’m focused on where cloud, security, and AI intersect:
+
+- AI agents for **incident response and DevOps workflows**
+- Practical GenAI systems (not demos) that integrate into real engineering pipelines
+- Multi-cloud architectures that are **secure by design**, not patched later
 
 ---
 
-## 🔗 Connect
+## How I Think
 
-- **[LinkedIn](https://www.linkedin.com/in/maskiran)**
-- **[Medium](https://maskiran.medium.com)**
+- Good architecture **reduces decisions**, it doesn’t create more
+- Most “AI features” are noise — value comes from **automation that actually replaces effort**
+- Security only works when it aligns with **developer velocity**
+- The best teams optimize for **clarity and ownership**, not process
 
-## [Resume](Resume.md)
+---
+
+## Tech (only what matters)
+
+Cloud: AWS · Azure · GCP  
+Platform: Kubernetes · Terraform · Distributed Systems  
+Security: Network Security · IAM · Zero Trust  
+AI: LLMs · RAG · Agent Systems · PyTorch ecosystem  
+
+---
+
+## Writing
+
+I write about engineering, AI, and how people think:
+
+- Medium: https://maskiran.medium.com
+
+---
+
+## More
+
+- [Resume](./Resume.md)
+- [LinkedIn](https://www.linkedin.com)
